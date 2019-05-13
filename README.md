@@ -1,2 +1,2 @@
-# Samsung-Smart-TV
+# Samsung Ads
 Samsung Adslists for Pi-Hole
