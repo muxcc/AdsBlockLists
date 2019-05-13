@@ -1,2 +1,2 @@
 # Ads Lists
-Adslists for Pi-Hole.
+Ads DNS to Pi-hole black lists
