@@ -1,6 +1,9 @@
-# This is a blocklist to block samsung smart tv's sending meta data at home.
-# Please help to collect domains!
-# It could be that the TV does not receive any more updates or other services no longer work. Please report such an incident.
+### This is a blocklist to block samsung smart tv's sending meta data at home.
+### It could be that the TV does not receive any more updates or other services no longer work. Please report such an incident.
+### License: MIT
+### Project home page: https://github.com/muxcc/AdsBlockLists
+### Updated: 2021-11-10 23:39:57 UTC
+
 abtauthprd.samsungcloudsolution.com
 acr0.samsungcloudsolution.com
 ad.samsungadhub.com

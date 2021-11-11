@@ -1,10 +1,14 @@
 ### Regular Expressions Blocklists for Pi-Hole
+### Please report such an incident.
+### License: MIT
 ### Project home page: https://github.com/muxcc/AdsBlockLists
-### Updated: 2021-11-10 23:48:11 UTC
+### Updated: 2021-11-11 00:35:46 UTC
 
 (.*)\.g00\.(.*).
 (\.|^)1dmp\.io$
+(\.|^)2mdn\.net$
 (\.|^)6tor\.org$
+(\.|^)a-msedge\.net$
 (\.|^)a2z\.com$
 (\.|^)aahqiyum\.com$
 (\.|^)ably-realtime\.com$
@@ -14,6 +18,7 @@
 (\.|^)adblocksosal\.ru$
 (\.|^)addthis\.com$
 (\.|^)adhigh\.net$
+(\.|^)adnxs\.com$
 (\.|^)adriver\.ru$
 (\.|^)adsco\.re$
 (\.|^)adsemo\.com$
@@ -30,9 +35,11 @@
 (\.|^)alphavids\.cc$
 (\.|^)antiadblocksystems\.com$
 (\.|^)apbbjmp\.com$
+(\.|^)appex-rf\.msn\.com$
 (\.|^)apprefaculty\.pro$
 (\.|^)artsporn\.com$
 (\.|^)asuqoqsea\.com$
+(\.|^)atdmt\.com$
 (\.|^)awembd\.com$
 (\.|^)awemdia\.com$
 (\.|^)awempire\.com$
@@ -108,8 +115,11 @@
 (\.|^)datadoghq\.com$
 (\.|^)datpix\.net$
 (\.|^)dbankcloud\.com$
+(\.|^)dc-msedge\.net$
 (\.|^)dditscdn\.com$
 (\.|^)ddos-guard\.net$
+(\.|^)delivery\.dsp\.mp\.microsoft\.com\.nsatc\.net$
+(\.|^)delivery\.mp\.microsoft\.com$
 (\.|^)diasfem\.com$
 (\.|^)digitalhuset\.net$
 (\.|^)dircont3\.com$
@@ -188,6 +198,7 @@
 (\.|^)lftklqdjldf\.com$
 (\.|^)lghdoxzulv\.com$
 (\.|^)livegranny\.com$
+(\.|^)location\.live\.net$
 (\.|^)locketamoral\.com$
 (\.|^)lukomol\.com$
 (\.|^)lwxjg\.com$
@@ -197,6 +208,7 @@
 (\.|^)malehub\.tv$
 (\.|^)maturemoms\.tv$
 (\.|^)media\.net$
+(\.|^)messenger\.live\.com$
 (\.|^)microsoft\.com$
 (\.|^)misdoers\.com$
 (\.|^)mixdrop\.co$
@@ -206,7 +218,10 @@
 (\.|^)mp\.microsoft\.com$
 (\.|^)mptgate\.com$
 (\.|^)mrelko\.com$
+(\.|^)msads\.net$
+(\.|^)msedge\.net$
 (\.|^)msftconnecttest\.com$
+(\.|^)msftncsi\.com$
 (\.|^)msgose\.com$
 (\.|^)mshago\.com$
 (\.|^)mxdcontent\.net$
@@ -254,6 +269,7 @@
 (\.|^)predictiondexchange\.com$
 (\.|^)prfctmney\.com$
 (\.|^)pringed\.space$
+(\.|^)prod\.do\.dsp\.mp\.microsoft\.com$
 (\.|^)profitanal\.com$
 (\.|^)pronpic\.org$
 (\.|^)protoawe\.com$
@@ -264,6 +280,8 @@
 (\.|^)ptlwmstc\.com$
 (\.|^)pushwoosh\.com$
 (\.|^)qrlsx\.com$
+(\.|^)rad\.msn\.com$
+(\.|^)rads\.msn\.com$
 (\.|^)rareru\.ru$
 (\.|^)rawgit\.com$
 (\.|^)razdvabm\.com$
@@ -303,11 +321,13 @@
 (\.|^)sendpulse\.com$
 (\.|^)sentry-cdn\.com$
 (\.|^)sentry\.io$
+(\.|^)services\.appex\.bing\.com$
 (\.|^)sex4k\.cam$
 (\.|^)shonretimus\.com$
 (\.|^)shop-ultra\.de$
 (\.|^)shortlink\.sex$
 (\.|^)shukriya90\.com$
+(\.|^)smartscreen\.microsoft\.com$
 (\.|^)smi2\.net$
 (\.|^)somethingprecursorfairfax\.com$
 (\.|^)special-offers\.online$
@@ -332,6 +352,7 @@
 (\.|^)svk-native\.ru$
 (\.|^)taroads\.com$
 (\.|^)tds7788\.com$
+(\.|^)tile\.appex\.bing\.com$
 (\.|^)titty-twister\.vip$
 (\.|^)tmozs\.com$
 (\.|^)to8s\.biz$
@@ -358,6 +379,7 @@
 (\.|^)undrininvereb\.info$
 (\.|^)unpkg\.com$
 (\.|^)unwillian\.xyz$
+(\.|^)update\.microsoft\.com$
 (\.|^)uprotectiehone\.xyz$
 (\.|^)urdmorgytjnbn\.xyz$
 (\.|^)uuidksinc\.net$
@@ -367,9 +389,13 @@
 (\.|^)videotxxx\.com$
 (\.|^)vidmo\.org$
 (\.|^)vidvas1\.com$
+(\.|^)virtualearth\.net$
+(\.|^)vo\.msecnd\.net$
+(\.|^)vortex\.data\.microsoft\.com$
 (\.|^)vpipi\.com$
 (\.|^)vsexshop\.ru$
 (\.|^)wanderlust\.yoga$
+(\.|^)weather\.microsoft\.com$
 (\.|^)webcambelle\.com$
 (\.|^)webcamfiles\.xyz$
 (\.|^)webcamsrip\.com$
@@ -390,10 +416,12 @@
 (\.|^)wpu\.sh$
 (\.|^)wpunativesh\.com$
 (\.|^)wpushsdk\.com$
+(\.|^)ws\.microsoft\.com$
 (\.|^)wurfl\.io$
 (\.|^)www\.bclheggx\.com$
 (\.|^)wxx\.wtf$
 (\.|^)xadsmart\.com$
+(\.|^)xboxlive\.com$
 (\.|^)xcdnpro\.com$
 (\.|^)xlovecam\.com$
 (\.|^)xmllover\.com$

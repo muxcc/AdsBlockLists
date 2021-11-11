@@ -1,3 +1,9 @@
+### Blacklist for blocking telemetry of Kaspersky services
+### Please report such an incident.
+### License: MIT
+### Project home page: https://github.com/muxcc/AdsBlockLists
+### Updated: 2021-11-11 00:05:49 UTC
+
 76.ucp-ntfy.kaspersky-labs.com
 dnsadmin.labkas.com
 dnsmaster.labkas.com
