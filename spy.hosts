@@ -2,7 +2,7 @@
 ### Please report such an incident.
 ### License: MIT
 ### Project home page: https://github.com/muxcc/AdsBlockLists
-### Updated: 2021-11-11 00:15:39 UTC
+### Updated: 2021-11-14 16:25:32 UTC
 
 00001b-1.l.windowsupdate.com
 000043-1.l.windowsupdate.com
@@ -178,7 +178,6 @@ a-msedge.net
 a.ads1.msn.com
 a.ads2.msads.net
 a.ads2.msn.com
-a.config.skype.com
 a.rad.msn.com
 ac3.msn.com
 activation-v2.sls.microsoft.com
@@ -265,7 +264,6 @@ az725175.vo.msecnd.net
 azwancan.trafficmanager.net
 b.ads1.msn.com
 b.ads2.msads.net
-b.config.skype.com
 b.rad.msn.com
 bg.v4.a.dl.ws.microsoft.com
 bg.v4.emdl.ws.microsoft.com
@@ -466,7 +464,6 @@ client.wns.windows.com
 clientconfig.passport.net
 co2.sls.microsoft.com
 compatexchange1.trafficmanager.net
-config.edge.skype.com
 config.teams.microsoft.com
 continuum.dds.microsoft.com
 corp.sts.microsoft.com
@@ -793,7 +790,6 @@ fe2.ws.microsoft.com
 fe2cr.update.microsoft.com
 fe3.delivery.dsp.mp.microsoft.com.nsatc.net
 fe3.delivery.mp.microsoft.com
-fe3cr.delivery.mp.microsoft.com
 feedback.microsoft-hohm.com
 feedback.search.microsoft.com
 feedback.windows.com
@@ -1053,7 +1049,6 @@ onedriveclucproddm20050.blob.core.windows.net
 oneocsp.microsoft.com
 optanon.blob.core.windows.net
 otf.msn.com
-outlook.office365.com
 packages.dmd.metaservices.microsoft.com
 par02p.wns.windows.com
 pipe.skype.com
@@ -1098,8 +1093,6 @@ share.microsoft.com
 skyapi.live.net
 skydrive.wns.windows.com
 skydrivesync.policies.live.net
-sls.update.microsoft.com
-slscr.update.microsoft.com
 smartscreen-prod.microsoft.com
 sn3301-c.1drv.com
 sn3301-e.1drv.com
@@ -1115,7 +1108,6 @@ ssw.live.com
 staging.to-do.microsoft.com
 staging.to-do.officeppe.com
 static.2mdn.net
-statics.teams.cdn.live.net
 statsfe1.ws.microsoft.com
 statsfe2.update.microsoft.com
 statsfe2.update.microsoft.com.akadns.net
@@ -1132,7 +1124,6 @@ t.urs.microsoft.com
 t0.ssl.ak.dynamic.tiles.virtualearth.net
 t0.ssl.ak.tiles.virtualearth.net
 teams.events.data.microsoft.com
-teams.live.com
 tele.trafficmanager.net
 telecommand.telemetry.microsoft.com
 telemetry.appex.bing.net
