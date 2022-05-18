@@ -1,7 +1,0 @@
-### Regular Expressions White for Pi-Hole
-### Please report such an incident.
-### License: MIT
-### Project home page: https://github.com/muxcc/AdsBlockLists
-### Updated: 2021-11-11 00:35:46 UTC
-
-(\.|^)onesignal\.com$
